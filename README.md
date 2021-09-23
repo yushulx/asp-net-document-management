@@ -27,3 +27,7 @@
 2. Visit `http://localhost:9000/UploadWithHTTP.html` in your web browser.
 
     ![ASP.NET document management](https://www.dynamsoft.com/codepool/img/2019/02/linux-scan-doc.PNG)
+
+
+## Blog
+[How to Use Mono to Run ASP.NET C# Code in Ubuntu Linux](https://www.dynamsoft.com/codepool/use-mono-run-aspnet-ubuntu-linux.html)
